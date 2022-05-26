@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: flyingtiger1601.github.io
+Token: 0cb79ac990f73e63423f8d0ea5db616d34c4b82f97607063712e444967b011e2
